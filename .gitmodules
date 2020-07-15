@@ -1,0 +1,3 @@
+[submodule "extensions/audiveris"]
+	path = extensions/audiveris
+	url = https://github.com/Audiveris/audiveris.git
